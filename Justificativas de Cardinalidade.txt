@@ -1,0 +1,12 @@
+As cardinalidades do modelo foram definidas de acordo com as regras do banco de dados e o funcionamento de um evento de natação.
+
+- EVENTO – ETAPA (1:N):** um evento pode possuir várias etapas, mas cada etapa pertence a um único evento.
+- ETAPA – PROVA (1:N):** uma etapa pode conter várias provas, mas cada prova pertence a uma única etapa.
+- CATEGORIA – PROVA (1:N):** uma categoria pode estar associada a várias provas, mas cada prova pertence a uma única categoria.
+- CLUBE – ATLETA (1:N):** um clube pode ter vários atletas, mas cada atleta está associado a um único clube no modelo.
+- CATEGORIA – ATLETA (1:N):** uma categoria pode incluir vários atletas, mas cada atleta está associado a uma única categoria no modelo.
+- ATLETA – INSCRIÇÃO (1:N):** um atleta pode realizar várias inscrições, mas cada inscrição pertence a um único atleta.
+- PROVA – INSCRIÇÃO (1:N):** uma prova pode ter várias inscrições, mas cada inscrição está relacionada a uma única prova.
+- INSCRIÇÃO – RESULTADO (1:0..1):** uma inscrição pode não ter resultado registrado ou possuir apenas um resultado, conforme a restrição definida no banco de dados.
+
+Essas cardinalidades representam as relações entre as entidades e são compatíveis com as chaves primárias, chaves estrangeiras e restrições de unicidade definidas no SQL.
