@@ -1,0 +1,41 @@
+Tema: Modelagem de banco de dados — 29º Troféu Alexandre Pussieldi 2025 (FASE Aquática)
+
+Prompt 1 — Criação do modelo conceitual
+
+Solicitei auxílio para compreender o problema proposto e identificar as entidades, os atributos e os relacionamentos necessários para modelar o banco de dados do 29º Troféu Alexandre Pussieldi 2025.
+
+Prompt 2 — Elaboração do diagrama ER
+
+Solicitei ajuda para construir o diagrama entidade-relacionamento (ER) utilizando a linguagem Mermaid, identificando as entidades, seus atributos, as chaves primárias, as chaves estrangeiras e os relacionamentos.
+
+Prompt 3 — Definição das cardinalidades
+
+Perguntei se as cardinalidades definidas no diagrama estavam corretas, buscando verificar se os relacionamentos entre as entidades representavam adequadamente as regras do sistema.
+
+Prompt 4 — Identificação dos tipos de relacionamento
+
+Solicitei esclarecimentos sobre os relacionamentos identificadores e não identificadores, considerando a representação por linhas contínuas e tracejadas no diagrama.
+
+Prompt 5 — Elaboração do script SQL
+
+Solicitei auxílio para desenvolver o script SQL responsável pela criação das tabelas do banco de dados, incluindo chaves primárias, chaves estrangeiras, restrições de unicidade e os relacionamentos entre as tabelas.
+
+Prompt 6 — Inserção de dados
+
+Solicitei ajuda para inserir dados de exemplo nas tabelas, permitindo testar o funcionamento do banco de dados e os relacionamentos definidos no modelo.
+
+Prompt 7 — Consulta dos dados
+
+Solicitei auxílio para elaborar uma consulta SQL utilizando junções (`JOIN`) entre as tabelas, com o objetivo de apresentar informações relacionadas ao evento, às etapas, às provas, aos atletas, aos clubes, às inscrições e aos resultados.
+
+Prompt 8 — Justificativa das cardinalidades
+
+Perguntei o que significava justificar as cardinalidades e como escrever essas justificativas no documento. A partir disso, organizei uma explicação para cada relacionamento do modelo, indicando por que a cardinalidade foi definida daquela maneira.
+
+Prompt 9 — Organização da documentação
+
+Solicitei ajuda para organizar as informações produzidas durante o desenvolvimento do trabalho, incluindo o modelo ER, o script SQL, as cardinalidades e suas justificativas, de forma adequada para a documentação da atividade.
+
+Considerações finais
+
+A utilização da Inteligência Artificial auxiliou na compreensão da modelagem de banco de dados, na definição dos relacionamentos e cardinalidades, na elaboração do script SQL e na organização da documentação. As sugestões fornecidas devem ser revisadas e comparadas com os requisitos da atividade antes da entrega final.
